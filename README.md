@@ -18,13 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/neerajchaudhary" target="blank">
+  <a href="www.linkedin.com/in/neeraj-chaudhary-99148a322" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajchaudhary" height="30" width="40" />
   </a>
-  <a href="https://fb.com/nk_royal_chaudhary" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100039578052077&mibextid=ZbWKwL" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nk_royal_chaudhary" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/royal_heartking_nk" target="blank">
+  <a href="https://www.instagram.com/royal_heartking_nk_?igsh=MXUwc2VydDU5aXk1cA==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royal_heartking_nk" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/neerajgeek" target="blank">
