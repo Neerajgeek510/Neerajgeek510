@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/neeraj-chaudhary-99148a322" target="blank">
+  <a href="https://www.linkedin.com/in/neeraj-chaudhary-99148a322?" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajchaudhary" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100039578052077&mibextid=ZbWKwL" target="blank">
@@ -53,12 +53,10 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajgeek510&show_icons=true&locale=en&layout=compact" alt="neerajgeek510" />
-</p>
+</p> 
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajgeek510&show_icons=true&locale=en" alt="neerajgeek510" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajgeek510&" alt="neerajgeek510" />
-</p>
+
